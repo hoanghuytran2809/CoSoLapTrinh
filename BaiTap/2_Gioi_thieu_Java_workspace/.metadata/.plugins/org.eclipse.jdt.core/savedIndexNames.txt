@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+E:\GiaoTrinh\HK1 - CoSoLapTrinh\BaiTap\2_Gioi_thieu_Java_workspace\.metadata\.plugins\org.eclipse.jdt.core
+2444266438.index
+1977074410.index
+4123474809.index
+1865797976.index
+2357583280.index

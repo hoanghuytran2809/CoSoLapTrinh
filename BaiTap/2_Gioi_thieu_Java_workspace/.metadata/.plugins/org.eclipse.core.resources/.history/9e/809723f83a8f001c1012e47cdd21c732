@@ -1,0 +1,23 @@
+package CongTruNhanChiaHaiSoNguyen_package;
+
+import java.util.Scanner;
+
+public class CongTruNhanChiaHaiSoNguyen_class {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		System.out.println("TONG HIEU TICH THUONG CUA HAI SO");
+		System.out.println("Nhap a: ");
+		int a = sc.nextInt();
+		System.out.println("Nhap b: ");
+		int b = sc.nextInt();
+		
+		int tong = a + b;
+		System.out.println(+a+ "+" +b+ "=" +tong);
+		
+		sc.close();
+
+	}
+
+}
